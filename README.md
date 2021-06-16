@@ -1,4 +1,4 @@
 EvaluacionFinalGit
 version 0
-lista de caracteristicas
-
+lista de caracteristicas:
+-caracteristica x
